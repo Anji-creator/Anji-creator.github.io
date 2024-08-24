@@ -1,3 +1,1 @@
-# Anji-creator.github.io
-
-<h1>Fiery Biryani</h1>
+<h1> <centre> Fiery Biryani </centre></h1>
